@@ -4,7 +4,7 @@ from os import path
 
 from setuptools import find_packages, setup
 
-PACKAGE_NAME = "Bunny-Senpai"
+PACKAGE_NAME = "Bunny"
 HERE = path.abspath(path.dirname(__file__))
 
 with open("README.rst", "r", encoding="UTF-8") as f:
