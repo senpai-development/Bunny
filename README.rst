@@ -3,29 +3,29 @@ Bunny
 
 **A slash command module for Senpai**
 
-.. image:: https://img.shields.io/pypi/dm/bunny.svg
+.. image:: https://img.shields.io/pypi/dm/bunny-senpai.svg
     :target: https://pypi.python.org/pypi/discord-py-interactions/
     :alt: PyPI Monthly Downloads
 
-.. image:: https://img.shields.io/github/license/goverfl0w/discord-interactions.svg
-    :target: https://github.com/goverfl0w/discord-interactions/blob/master/LICENSE
+.. image:: https://img.shields.io/github/license/senpai-development/bunny.svg
+    :target: https://github.com/senpai-development/bunny/blob/master/LICENSE
     :alt: License
 
-.. image:: https://img.shields.io/pypi/pyversions/discord-py-interactions.svg
-    :target: https://pypi.python.org/pypi/discord-py-interactions/
+.. image:: https://img.shields.io/pypi/pyversions/bunney-senpai.svg
+    :target: https://pypi.python.org/pypi/bunny-senpai/
     :alt: PyPI pyversions
 
-.. image:: https://img.shields.io/pypi/v/discord-py-interactions.svg
-    :target: https://pypi.python.org/pypi/discord-py-interactions/
+.. image:: https://img.shields.io/pypi/v/bunny-senpai.svg
+    :target: https://pypi.python.org/pypi/bunny-senpai/
     :alt: PyPI version shields.io
 
-.. image:: https://readthedocs.org/projects/discord-interactions/badge/?version=latest
-    :target: http://discord-interactions.readthedocs.io/?badge=latest
+.. image:: https://readthedocs.org/projects/bunny-senpai/badge/?version=latest
+    :target: http://senpai.readthedocs.io/bunny
     :alt: Documentation Status
 
-.. image:: https://discord.com/api/guilds/789032594456576001/embed.png
-    :target: https://discord.gg/KkgMBVuEkx
-    :alt: Discord
+.. image:: https://discord.com/api/guilds/897666638831308811/embed.png
+    :target: https://discord.gg/EURtAby6HU
+    :alt: Bunny
 
 ----
 
