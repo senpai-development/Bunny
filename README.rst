@@ -40,7 +40,7 @@ Use this line to install our library:
 
 .. code-block:: bash
 
-    pip install -U bunny
+    pip install -U bunny-senpai
 
 ----
 
