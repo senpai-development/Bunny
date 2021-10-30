@@ -4,7 +4,7 @@ Bunny
 **A slash command module for Senpai**
 
 .. image:: https://img.shields.io/pypi/dm/bunny-senpai.svg
-    :target: https://pypi.python.org/pypi/discord-py-interactions/
+    :target: https://pypi.python.org/pypi/bunny-senpai/
     :alt: PyPI Monthly Downloads
 
 .. image:: https://img.shields.io/github/license/senpai-development/bunny.svg
