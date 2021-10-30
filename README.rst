@@ -3,7 +3,7 @@ Bunny
 
 **A slash command module for Senpai**
 
-.. image:: https://img.shields.io/pypi/dm/discord-py-slash-command.svg
+.. image:: https://img.shields.io/pypi/dm/bunny.svg
     :target: https://pypi.python.org/pypi/discord-py-interactions/
     :alt: PyPI Monthly Downloads
 
