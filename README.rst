@@ -1,7 +1,7 @@
-discord-interactions
+Bunny
 ====================
 
-**A simple API wrapper for Discord interactions.**
+**A slash command module for Senpai**
 
 .. image:: https://img.shields.io/pypi/dm/discord-py-slash-command.svg
     :target: https://pypi.python.org/pypi/discord-py-interactions/
