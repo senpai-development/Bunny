@@ -19,7 +19,7 @@ Bunny
     :target: https://pypi.python.org/pypi/bunny-senpai/
     :alt: PyPI version shields.io
 
-.. image:: https://readthedocs.org/projects/bunny-senpai/badge/?version=latest
+.. image:: https://readthedocs.org/projects/senpai/badge/?version=latest
     :target: http://senpai.readthedocs.io/bunny
     :alt: Documentation Status
 
