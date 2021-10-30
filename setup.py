@@ -4,7 +4,7 @@ from os import path
 
 from setuptools import find_packages, setup
 
-PACKAGE_NAME = "bunny"
+PACKAGE_NAME = "Bunny-Senpai"
 HERE = path.abspath(path.dirname(__file__))
 
 with open("README.rst", "r", encoding="UTF-8") as f:
@@ -20,7 +20,7 @@ extras["lint"] += extras["readthedocs"]
 extras["dev"] = extras["lint"] + extras["readthedocs"]
 
 setup(
-    name="bunny",
+    name="Bunny-Senpai",
     version=VERSION,
     author="senpai",
     author_email="vincentrps@gmail.com",
