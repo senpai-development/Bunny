@@ -29,27 +29,9 @@ Bunny
 
 ----
 
-This library specializes in the ability to create and use interactions, a new
-implementation to Discord's public API as of December 2020. The strong suits of using
-our library are:
-
-- Modern pythonic design that is scalable and modular.
-- Asynchronous coroutines and multi-threading capabilities.
-- Optimal class object reference with little overhead.
-- Easily accessible codebase source.
-- Stable/unstable branches for managing module stability when importing.
-
-This means that we're essentially good for:
-
-- Working with application commands.
-- Handling contextual data cached from text channels.
-- General/basic assignment of guild properties to members.
-- Responsive callbacks for buttons and select menus.
-
-And we're not good for:
-
-- Trying to use/connect as a voice client.
-- Cooldowns/bucket types.
+Fork
+=====
+This **Is** a fork of discord-interactions
 
 Installation
 ============
@@ -58,7 +40,7 @@ Use this line to install our library:
 
 .. code-block:: bash
 
-    pip install -U discord-py-interactions
+    pip install -U bunny
 
 ----
 
