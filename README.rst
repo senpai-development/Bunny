@@ -11,7 +11,7 @@ Bunny
     :target: https://github.com/senpai-development/bunny/blob/master/LICENSE
     :alt: License
 
-.. image:: https://img.shields.io/pypi/pyversions/bunney-senpai.svg
+.. image:: https://img.shields.io/pypi/pyversions/bunny-senpai.svg
     :target: https://pypi.python.org/pypi/bunny-senpai/
     :alt: PyPI pyversions
 
